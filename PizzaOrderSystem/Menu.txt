@@ -1,0 +1,12 @@
+* Lutfen Bir Pizza Tabani Seçiniz:
+1: KlasikPizza
+2: MargaritaPizza
+3: TurkPizza
+4: SadePizza
+5: Zeytin
+6: Mantar
+7: KeciPeyniri
+8: Et
+9: Sogan
+10: Misir
+* Tesekkur Ederiz!
